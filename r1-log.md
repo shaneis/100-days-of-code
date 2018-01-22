@@ -8,3 +8,4 @@ The log of my #100DaysOfCode challenge. Started on [Sunday 21, Sunday, 2018].
 Started the Advent of Code 2017 again from day 3, see here: http://adventofcode.com/2017
 
 ### R1D2
+Workig on Advent of Code 2017, Day 03 Part 01. It's <sarcasm>not<\sarcasm> kicking my ass at the moment.
