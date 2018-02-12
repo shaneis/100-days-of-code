@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - [Shane O'Neill]
 
-The log of my #100DaysOfCode challenge. Started on [Sunday 21, Sunday, 2018].
+The log of my #100DaysOfCode challenge. Started on [Sunday, 21 January 2018].
 
 ## Log
 
